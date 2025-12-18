@@ -2,3 +2,4 @@
 console.log("Welcome to Git Bash exploration!");
 
 // have created a function to demonstrate basic git commands
+// hello broother
